@@ -27,19 +27,7 @@
 
 ---
 
-## `01 // PROJECT ARCHIVE`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  [01]  BROWSER TOOLS    WP Scanner / Usability Tracker       │
-│  [02]  NETWORKING       Packet Sniffer / TCP-UDP Client      │
-│  [03]  SECURITY LABS    Educational simulations              │
-│  [04]  WEB              WordPress themes & plugins           │
-│  [05]  UTILITIES        Batch scripts                        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
 
 <div align="center">
 
