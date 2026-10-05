@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120B09,50:2A1712,100:4A2118&height=240&section=header&text=ANNYX-01&fontSize=76&fontColor=D0B49F&fontAlignY=36&animation=fadeIn&desc=MAHOGANY%20MOON%20%2F%2F%20SYSTEM%20ONLINE&descAlignY=58&descSize=18&descColor=C77D4F"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1311,55:2E1B18,100:8E3B2F&height=240&section=header&text=ANNYX-01&fontSize=76&fontColor=E3CDBB&fontAlignY=36&animation=fadeIn&desc=KOANYX%20%2F%2F%20CALM%20SYSTEMS%2C%20CURIOUS%20MINDS&descAlignY=58&descSize=18&descColor=D9A38F"/>
 
 <a href="https://github.com/Annyx-01">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=C77D4F&center=true&vCenter=true&width=640&height=40&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix;Linux+%C2%B7+Networking+%C2%B7+Security;I+don%27t+just+use+the+machine.;I+want+to+understand+the+machine." alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=B3523F&center=true&vCenter=true&width=640&height=40&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix;Linux+%C2%B7+Networking+%C2%B7+Security;I+don%27t+just+use+the+machine.;I+want+to+understand+the+machine." alt="typing intro"/>
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Annyx-01&style=for-the-badge&color=4A2118&label=VISITORS"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-2A1712?style=for-the-badge&logoColor=D0B49F"/>
-<img src="https://img.shields.io/badge/MODE-LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20BREAK%20%E2%86%92%20FIX-4A2118?style=for-the-badge"/>
+<a href="https://github.com/Annyx-01"><img src="https://img.shields.io/badge/GITHUB-Annyx-01-2E1B18?style=for-the-badge&logo=github&logoColor=E3CDBB"/></a>
+<a href="https://www.youtube.com/@key-kon"><img src="https://img.shields.io/badge/YOUTUBE-@key--kon-8E3B2F?style=for-the-badge&logo=youtube&logoColor=E3CDBB"/></a>
+<img src="https://komarev.com/ghpvc/?username=Annyx-01&style=for-the-badge&color=4A2A24&label=VISITORS"/>
 
 <br><br>
 
@@ -19,21 +19,21 @@
 ║                                                              ║
 ║                       A N N Y X - 0 1                        ║
 ║                                                              ║
-║                  M A H O G A N Y   M O O N                   ║
+║              K O A N Y X   //   M A H O G A N Y              ║
 ║                                                              ║
 ║                ─────────────────────────────                 ║
 ║                                                              ║
 ║                  SYSTEM    :  ONLINE                         ║
 ║                  USER      :  ANNYX                          ║
 ║                  NODE      :  01                             ║
-║                  SESSION   :  ACTIVE                         ║
+║                  SESSION   :  CALM                           ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### `⌁ WELCOME TO THE MAHOGANY MOON ⌁`
+### `⌁ WELCOME TO THE QUIET TERMINAL ⌁`
 
-`old machines // dark terminals // curious minds`
+`warm light // dark wood // curious minds`
 
 </div>
 
@@ -67,48 +67,31 @@ Name         ::  Annyx-01
 Environment  ::  Linux / Windows
 Interests    ::  Programming / Linux / Networking
 Focus        ::  Systems / Cybersecurity / Development
+Builds       ::  Browser extensions / Network tools / Security labs
+Channel      ::  youtube.com/@key-kon
 Mode         ::  Learn > Build > Break > Fix
 Status       ::  ONLINE
 ```
 
 I'm interested in understanding how things work beneath the surface.
-Code, operating systems, networks, security, terminals, and the strange little details most people never bother to look at.
+Code, operating systems, networks, security, terminals, and the small details most people never look at.
 
 > *I don't just want to use the machine. I want to understand the machine.*
 
 ---
 
-## `02 // THE MAHOGANY MOON`
-
-<div align="center">
+## `02 // THE VIBE`
 
 ```text
-          .          *              .
-                .          _..._          *
-      *              .   .::::. `.
-                        :::::::.  :     .
-         .              ::::::::  :
-                  *     `::::::' .'
-      .                   `'::-'        *
-                .
-                M A H O G A N Y   M O O N
-```
+Quiet screens.
+Warm light.
+Dark wood.
+Unix manuals.
+A machine humming in the corner.
 
-</div>
+Calm on the outside.
+Curious on the inside.
 
-```text
-The Mahogany Moon is not a brand.
-It's a mood.
-
-  Late-night terminals.
-  Old hardware.
-  Dim screens.
-  Dark wooden desks.
-  Unix manuals.
-  Cold coffee.
-  A machine humming in the corner.
-
-1990s computing energy.
 No unnecessary noise. Just the system.
 ```
 
@@ -136,13 +119,13 @@ No unnecessary noise. Just the system.
 <div align="center">
 
 ### `LANGUAGES`
-<img src="https://img.shields.io/badge/C-2A1712?style=for-the-badge&logo=c&logoColor=D0B49F"/> <img src="https://img.shields.io/badge/C%2B%2B-2A1712?style=for-the-badge&logo=c%2B%2B&logoColor=D0B49F"/> <img src="https://img.shields.io/badge/Python-2A1712?style=for-the-badge&logo=python&logoColor=D0B49F"/> <img src="https://img.shields.io/badge/JavaScript-2A1712?style=for-the-badge&logo=javascript&logoColor=D0B49F"/> <img src="https://img.shields.io/badge/HTML-2A1712?style=for-the-badge&logo=html5&logoColor=D0B49F"/> <img src="https://img.shields.io/badge/CSS-2A1712?style=for-the-badge&logo=css3&logoColor=D0B49F"/>
+<img src="https://img.shields.io/badge/C-2E1B18?style=for-the-badge&logo=c&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/C%2B%2B-2E1B18?style=for-the-badge&logo=c%2B%2B&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/Python-2E1B18?style=for-the-badge&logo=python&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/JavaScript-2E1B18?style=for-the-badge&logo=javascript&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/Batch-2E1B18?style=for-the-badge&logo=windowsterminal&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/HTML-2E1B18?style=for-the-badge&logo=html5&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/CSS-2E1B18?style=for-the-badge&logo=css3&logoColor=E3CDBB"/>
 
 ### `SYSTEMS & TOOLS`
-<img src="https://img.shields.io/badge/Linux-2A1712?style=for-the-badge&logo=linux&logoColor=D0B49F"/> <img src="https://img.shields.io/badge/Git-2A1712?style=for-the-badge&logo=git&logoColor=D0B49F"/> <img src="https://img.shields.io/badge/GitHub-2A1712?style=for-the-badge&logo=github&logoColor=D0B49F"/> <img src="https://img.shields.io/badge/VS_Code-2A1712?style=for-the-badge&logo=visual-studio-code&logoColor=D0B49F"/> <img src="https://img.shields.io/badge/Bash-2A1712?style=for-the-badge&logo=gnubash&logoColor=D0B49F"/> <img src="https://img.shields.io/badge/Windows-2A1712?style=for-the-badge&logo=windows&logoColor=D0B49F"/>
+<img src="https://img.shields.io/badge/Linux-2E1B18?style=for-the-badge&logo=linux&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/Git-2E1B18?style=for-the-badge&logo=git&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/GitHub-2E1B18?style=for-the-badge&logo=github&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/VS_Code-2E1B18?style=for-the-badge&logo=visual-studio-code&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/Bash-2E1B18?style=for-the-badge&logo=gnubash&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/WordPress-2E1B18?style=for-the-badge&logo=wordpress&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/Windows-2E1B18?style=for-the-badge&logo=windows&logoColor=E3CDBB"/>
 
 ### `AREAS`
-<img src="https://img.shields.io/badge/Networking-4A2118?style=for-the-badge&logoColor=D0B49F"/> <img src="https://img.shields.io/badge/Cybersecurity-4A2118?style=for-the-badge&logoColor=D0B49F"/> <img src="https://img.shields.io/badge/Systems-4A2118?style=for-the-badge&logoColor=D0B49F"/> <img src="https://img.shields.io/badge/Problem_Solving-4A2118?style=for-the-badge&logoColor=D0B49F"/>
+<img src="https://img.shields.io/badge/Networking-4A2A24?style=for-the-badge&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/Cybersecurity-4A2A24?style=for-the-badge&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/Systems-4A2A24?style=for-the-badge&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/Browser_Extensions-4A2A24?style=for-the-badge&logoColor=E3CDBB"/>
 
 </div>
 
@@ -153,7 +136,7 @@ No unnecessary noise. Just the system.
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│  ANNYX@MOON:~$ ./build_future.sh                             │
+│  ANNYX@KOANYX:~$ ./build_future.sh                           │
 │                                                              │
 │  [ 01%]  Initializing system.........                        │
 │  [ 17%]  Loading curiosity............                       │
@@ -170,7 +153,7 @@ No unnecessary noise. Just the system.
 │     > KEEP BREAKING THINGS.                                  │
 │     > THEN FIGURE OUT WHY.                                   │
 │                                                              │
-│  ANNYX@MOON:~$ _                                             │
+│  ANNYX@KOANYX:~$ _                                           │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -182,54 +165,69 @@ No unnecessary noise. Just the system.
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│  [01]  PROGRAMMING     C / C++ / Python                      │
-│  [02]  LINUX           Terminal / Systems                    │
-│  [03]  NETWORKING      TCP/IP / Network Labs                 │
-│  [04]  SECURITY        Labs / Research                       │
-│  [05]  EXPERIMENTS     Things that probably broke            │
+│  [01]  BROWSER TOOLS    WP Scanner / Usability Tracker       │
+│  [02]  NETWORKING       Packet Sniffer / TCP-UDP Client      │
+│  [03]  SECURITY LABS    Educational simulations              │
+│  [04]  WEB              WordPress themes & plugins           │
+│  [05]  UTILITIES        Batch scripts                        │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-> Browse the repositories to see what is actually being built.
-
-<!--
-  PIN YOUR BEST REPOS HERE: replace REPO_NAME and uncomment.
-
 <div align="center">
-  <a href="https://github.com/Annyx-01/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=REPO_NAME&bg_color=120B09&title_color=D0B49F&text_color=B89A82&icon_color=C77D4F&border_color=4A2118&border_radius=8"/></a>
-  <a href="https://github.com/Annyx-01/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=REPO_NAME_2&bg_color=120B09&title_color=D0B49F&text_color=B89A82&icon_color=C77D4F&border_color=4A2118&border_radius=8"/></a>
+
+<a href="https://github.com/Annyx-01/Koanyx-WP-Scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Koanyx-WP-Scanner&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a> <a href="https://github.com/Annyx-01/koanyx_scan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=koanyx_scan&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
+<br>
+<a href="https://github.com/Annyx-01/Koanyx-Packet-Sniffer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Koanyx-Packet-Sniffer&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a> <a href="https://github.com/Annyx-01/Koanyx-tcp-udp-clint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Koanyx-tcp-udp-clint&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
+<br>
+<a href="https://github.com/Annyx-01/Koanyx-Encryptor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Koanyx-Encryptor&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a> <a href="https://github.com/Annyx-01/ANYX-Data-Collector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=ANYX-Data-Collector&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
+<br>
+<a href="https://github.com/Annyx-01/Wordpress-Hijab-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Wordpress-Hijab-site&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
+<br>
 </div>
--->
+
+> Security tools here are built for learning and for authorized testing only.
 
 ---
 
-## `07 // GITHUB ACTIVITY`
+## `07 // CHANNEL`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Annyx-01&show_icons=true&bg_color=120B09&title_color=D0B49F&text_color=B89A82&icon_color=C77D4F&border_color=4A2118&border_radius=8"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annyx-01&layout=compact&bg_color=120B09&title_color=D0B49F&text_color=B89A82&icon_color=C77D4F&border_color=4A2118&border_radius=8"/>
+<a href="https://www.youtube.com/@key-kon"><img src="https://img.shields.io/badge/WATCH%20ON%20YOUTUBE-@key--kon-8E3B2F?style=for-the-badge&logo=youtube&logoColor=E3CDBB"/></a>
+
+`tutorials // experiments // things that probably broke`
+
+</div>
+
+---
+
+## `08 // GITHUB ACTIVITY`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Annyx-01&show_icons=true&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annyx-01&layout=compact&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Annyx-01&background=120B09&ring=C77D4F&fire=C77D4F&currStreakNum=D0B49F&currStreakLabel=D0B49F&sideNums=D0B49F&sideLabels=B89A82&dates=8B5A3C&stroke=4A2118&border=4A2118&borderRadius=8"/>
+<img src="https://streak-stats.demolab.com?user=Annyx-01&background=1E1311&ring=B3523F&fire=B3523F&currStreakNum=E3CDBB&currStreakLabel=E3CDBB&sideNums=E3CDBB&sideLabels=9C7A6A&dates=9C7A6A&stroke=4A2A24&border=4A2A24&borderRadius=10"/>
 
 </div>
 
 ---
 
-## `08 // CONTRIBUTION SIGNAL`
+## `09 // CONTRIBUTION SIGNAL`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Annyx-01&bg_color=120B09&color=D0B49F&line=C77D4F&point=D0B49F&area=true&area_color=4A2118&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Annyx-01&bg_color=1E1311&color=E3CDBB&line=B3523F&point=E3CDBB&area=true&area_color=2E1B18&hide_border=true"/>
 
 </div>
 
 ---
 
-## `09 // COMMAND HISTORY`
+## `10 // COMMAND HISTORY`
 
 ```text
 $ history
@@ -253,7 +251,7 @@ $ history
 
 ---
 
-## `10 // PHILOSOPHY`
+## `11 // PHILOSOPHY`
 
 <div align="center">
 
@@ -262,7 +260,7 @@ $ history
 ║                                                              ║
 ║         "THE MACHINE ONLY KNOWS WHAT YOU TEACH IT."          ║
 ║                                                              ║
-║                    - MAHOGANY MOON / 199X                    ║
+║                           - KOANYX                           ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -278,11 +276,12 @@ Failure is the debugger.
 
 ---
 
-## `11 // CONNECT`
+## `12 // CONNECT`
 
 <div align="center">
 
-<a href="https://github.com/Annyx-01"><img src="https://img.shields.io/badge/GITHUB-Annyx-01-120B09?style=for-the-badge&logo=github&logoColor=D0B49F"/></a>
+<a href="https://github.com/Annyx-01"><img src="https://img.shields.io/badge/GITHUB-Annyx-01-2E1B18?style=for-the-badge&logo=github&logoColor=E3CDBB"/></a>
+<a href="https://www.youtube.com/@key-kon"><img src="https://img.shields.io/badge/YOUTUBE-@key--kon-8E3B2F?style=for-the-badge&logo=youtube&logoColor=E3CDBB"/></a>
 
 <br><br>
 
@@ -290,7 +289,7 @@ Failure is the debugger.
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║                           ANNYX-01                           ║
-║                        MAHOGANY MOON                         ║
+║                            KOANYX                            ║
 ║                                                              ║
 ║                    ─────────────────────                     ║
 ║                                                              ║
@@ -307,4 +306,4 @@ Failure is the debugger.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A2118,50:2A1712,100:120B09&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E3B2F,55:2E1B18,100:1E1311&height=120&section=footer"/>
