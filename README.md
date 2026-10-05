@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1311,55:2E1B18,100:8E3B2F&height=240&section=header&text=ANNYX-01&fontSize=76&fontColor=E3CDBB&fontAlignY=36&animation=fadeIn&desc=KOANYX%20%2F%2F%20CALM%20SYSTEMS%2C%20CURIOUS%20MINDS&descAlignY=58&descSize=18&descColor=D9A38F"/>
@@ -22,32 +21,91 @@
 ██╔═██╗ ██║   ██║██╔══██║██║╚██╗██║  ╚██╔╝   ██╔██╗ 
 ██║  ██╗╚██████╔╝██║  ██║██║ ╚████║   ██║   ██╔╝ ██╗
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
-````
+```
+
+</div>
+
+---
+
+## `01 // PROJECT ARCHIVE`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  [01]  BROWSER TOOLS    WP Scanner / Usability Tracker       │
+│  [02]  NETWORKING       Packet Sniffer / TCP-UDP Client      │
+│  [03]  SECURITY LABS    Educational simulations              │
+│  [04]  WEB              WordPress themes & plugins           │
+│  [05]  UTILITIES        Batch scripts                        │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<a href="https://github.com/Annyx-01/Koanyx-WP-Scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Koanyx-WP-Scanner&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a> <a href="https://github.com/Annyx-01/koanyx_scan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=koanyx_scan&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
+<br>
+<a href="https://github.com/Annyx-01/Koanyx-Packet-Sniffer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Koanyx-Packet-Sniffer&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a> <a href="https://github.com/Annyx-01/Koanyx-tcp-udp-clint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Koanyx-tcp-udp-clint&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
+<br>
+<a href="https://github.com/Annyx-01/Koanyx-Encryptor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Koanyx-Encryptor&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a> <a href="https://github.com/Annyx-01/ANYX-Data-Collector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=ANYX-Data-Collector&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
+<br>
+<a href="https://github.com/Annyx-01/Wordpress-Hijab-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Wordpress-Hijab-site&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
+<br>
+</div>
+
+> Security tools here are built for learning and for authorized testing only.
+
+---
+
+## `02 // GITHUB ACTIVITY`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Annyx-01&show_icons=true&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annyx-01&layout=compact&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Annyx-01&background=1E1311&ring=B3523F&fire=B3523F&currStreakNum=E3CDBB&currStreakLabel=E3CDBB&sideNums=E3CDBB&sideLabels=9C7A6A&dates=9C7A6A&stroke=4A2A24&border=4A2A24&borderRadius=10"/>
+
+</div>
+
+---
+
+## `03 // CONTRIBUTION SIGNAL`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Annyx-01&bg_color=1E1311&color=E3CDBB&line=B3523F&point=E3CDBB&area=true&area_color=2E1B18&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `⌁ WELCOME TO THE QUIET TERMINAL ⌁`
+
+`warm light // dark wood // curious minds`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║                       A N N Y X - 0 1                        ║
 ║                                                              ║
-║                         K O A N Y X                          ║
+║              K O A N Y X   //   M A H O G A N Y              ║
 ║                                                              ║
 ║                ─────────────────────────────                 ║
 ║                                                              ║
 ║                  SYSTEM    :  ONLINE                         ║
 ║                  USER      :  ANNYX                          ║
 ║                  NODE      :  01                             ║
-║                  .                                           ║
+║                  SESSION   :  CALM                           ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### `⌁ WELCOME TO THE QUIET TERMINAL ⌁`
-
-`learn // dark wood // educate`
-
 </div>
-
----
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -66,7 +124,7 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-## `01 // WHOAMI`
+## `04 // WHOAMI`
 
 ```text
 $ whoami
@@ -90,17 +148,24 @@ Code, operating systems, networks, security, terminals, and the small details mo
 
 ---
 
-## `02. My Devotion`
+## `05 // THE VIBE`
 
 ```text
-I am but the prominent slave of Asthetic.
-I live learn fight for sake of beauty, even kneel to Allah Because its beautiful 
-For I adore everything I reckon exquisit.
+Quiet screens.
+Warm light.
+Dark wood.
+Unix manuals.
+A machine humming in the corner.
+
+Calm on the outside.
+Curious on the inside.
+
+No unnecessary noise. Just the system.
 ```
 
 ---
 
-## `03. CURRENT ENVIRONMENT`
+## `06 // CURRENT ENVIRONMENT`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -117,27 +182,24 @@ For I adore everything I reckon exquisit.
 
 ---
 
-## `04. TECH STACK`
+## `07 // TECH STACK`
 
 <div align="center">
 
 ### `LANGUAGES`
-
 <img src="https://img.shields.io/badge/C-2E1B18?style=for-the-badge&logo=c&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/C%2B%2B-2E1B18?style=for-the-badge&logo=c%2B%2B&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/Python-2E1B18?style=for-the-badge&logo=python&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/JavaScript-2E1B18?style=for-the-badge&logo=javascript&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/Batch-2E1B18?style=for-the-badge&logo=windowsterminal&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/HTML-2E1B18?style=for-the-badge&logo=html5&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/CSS-2E1B18?style=for-the-badge&logo=css3&logoColor=E3CDBB"/>
 
 ### `SYSTEMS & TOOLS`
-
 <img src="https://img.shields.io/badge/Linux-2E1B18?style=for-the-badge&logo=linux&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/Git-2E1B18?style=for-the-badge&logo=git&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/GitHub-2E1B18?style=for-the-badge&logo=github&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/VS_Code-2E1B18?style=for-the-badge&logo=visual-studio-code&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/Bash-2E1B18?style=for-the-badge&logo=gnubash&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/WordPress-2E1B18?style=for-the-badge&logo=wordpress&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/Windows-2E1B18?style=for-the-badge&logo=windows&logoColor=E3CDBB"/>
 
 ### `AREAS`
-
 <img src="https://img.shields.io/badge/Networking-4A2A24?style=for-the-badge&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/Cybersecurity-4A2A24?style=for-the-badge&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/Systems-4A2A24?style=for-the-badge&logoColor=E3CDBB"/> <img src="https://img.shields.io/badge/Browser_Extensions-4A2A24?style=for-the-badge&logoColor=E3CDBB"/>
 
 </div>
 
 ---
 
-## `05. TERMINAL`
+## `08 // TERMINAL`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -166,65 +228,7 @@ For I adore everything I reckon exquisit.
 
 ---
 
-## `06. PROJECT ARCHIVE`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  [01]  BROWSER TOOLS    WP Scanner / Usability Tracker       │
-│  [02]  NETWORKING       Packet Sniffer / TCP-UDP Client      │
-│  [03]  SECURITY LABS    Educational simulations              │
-│  [04]  WEB              WordPress themes & plugins           │
-│  [05]  UTILITIES        Batch scripts                        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-<a href="https://github.com/Annyx-01/Koanyx-WP-Scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Koanyx-WP-Scanner&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a> <a href="https://github.com/Annyx-01/koanyx_scan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=koanyx_scan&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
-
-<br>
-
-<a href="https://github.com/Annyx-01/Koanyx-Packet-Sniffer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Koanyx-Packet-Sniffer&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a> <a href="https://github.com/Annyx-01/Koanyx-tcp-udp-clint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Koanyx-tcp-udp-clint&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
-
-<br>
-
-<a href="https://github.com/Annyx-01/Koanyx-Encryptor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Koanyx-Encryptor&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a> <a href="https://github.com/Annyx-01/ANYX-Data-Collector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=ANYX-Data-Collector&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
-
-<br>
-
-<a href="https://github.com/Annyx-01/Wordpress-Hijab-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Wordpress-Hijab-site&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
-
-<br>
-
-</div>
-
-> Security tools here are built for learning and for authorized testing only.
-
----
-
-## `07. GITHUB ACTIVITY`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Annyx-01&show_icons=true&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annyx-01&layout=compact&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Annyx-01&background=1E1311&ring=B3523F&fire=B3523F&currStreakNum=E3CDBB&currStreakLabel=E3CDBB&sideNums=E3CDBB&sideLabels=9C7A6A&dates=9C7A6A&stroke=4A2A24&border=4A2A24&borderRadius=10"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Annyx-01&bg_color=1E1311&color=E3CDBB&line=B3523F&point=E3CDBB&area=true&area_color=2E1B18&hide_border=true"/>
-
-</div>
-
----
-
-## `08. CHANNEL`
+## `09 // CHANNEL`
 
 <div align="center">
 
@@ -236,17 +240,7 @@ For I adore everything I reckon exquisit.
 
 ---
 
-## `09. CONTRIBUTION SIGNAL`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Annyx-01&bg_color=1E1311&color=E3CDBB&line=B3523F&point=E3CDBB&area=true&area_color=2E1B18&hide_border=true"/>
-
-</div>
-
----
-
-## `10. OMMAND HISTORY`
+## `10 // COMMAND HISTORY`
 
 ```text
 $ history
@@ -270,15 +264,15 @@ $ history
 
 ---
 
-## `11. PHILOSOPHY`
+## `11 // PHILOSOPHY`
 
 <div align="center">
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║ "Useless things get more attention than meaningful things"   ║
-║         The worse you are greater the hype                   ║
+║         "THE MACHINE ONLY KNOWS WHAT YOU TEACH IT."          ║
+║                                                              ║
 ║                           - KOANYX                           ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -299,7 +293,8 @@ Failure is the debugger.
 
 <div align="center">
 
-<a href="https://github.com/Annyx-01"><img src="https://img.shields.io/badge/GITHUB-Annyx-01-2E1B18?style=for-the-badge&logo=github&logoColor=E3CDBB"/></a> <a href="https://www.youtube.com/@key-kon"><img src="https://img.shields.io/badge/YOUTUBE-@key--kon-8E3B2F?style=for-the-badge&logo=youtube&logoColor=E3CDBB"/></a>
+<a href="https://github.com/Annyx-01"><img src="https://img.shields.io/badge/GITHUB-Annyx-01-2E1B18?style=for-the-badge&logo=github&logoColor=E3CDBB"/></a>
+<a href="https://www.youtube.com/@key-kon"><img src="https://img.shields.io/badge/YOUTUBE-@key--kon-8E3B2F?style=for-the-badge&logo=youtube&logoColor=E3CDBB"/></a>
 
 <br><br>
 
@@ -320,12 +315,8 @@ Failure is the debugger.
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-`[ CONNECTION ESTABLISHED ]`   `[ END OF TRANSMISSION ]`
+`[ CONNECTION ESTABLISHED ]` &nbsp; `[ END OF TRANSMISSION ]`
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E3B2F,55:2E1B18,100:1E1311&height=120&section=footer"/>
-```
-
-
-One thing I preserved from your actual file is that the original **Contribution Signal** already uses the activity graph, so it remains afterward rather than inventing a new section.
