@@ -15,25 +15,34 @@
 <br><br>
 
 ```text
+██╗  ██╗ ██████╗  █████╗ ███╗   ██╗██╗   ██╗██╗  ██╗
+██║ ██╔╝██╔═══██╗██╔══██╗████╗  ██║╚██╗ ██╔╝╚██╗██╔╝
+█████╔╝ ██║   ██║███████║██╔██╗ ██║ ╚████╔╝  ╚███╔╝ 
+██╔═██╗ ██║   ██║██╔══██║██║╚██╗██║  ╚██╔╝   ██╔██╗ 
+██║  ██╗╚██████╔╝██║  ██║██║ ╚████║   ██║   ██╔╝ ██╗
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
+```
+
+```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║                       A N N Y X - 0 1                        ║
 ║                                                              ║
-║              K O A N Y X   //   M A H O G A N Y              ║
+║                         K O A N Y X                          ║
 ║                                                              ║
 ║                ─────────────────────────────                 ║
 ║                                                              ║
 ║                  SYSTEM    :  ONLINE                         ║
 ║                  USER      :  ANNYX                          ║
 ║                  NODE      :  01                             ║
-║                  SESSION   :  CALM                           ║
+║                  .                                           ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ### `⌁ WELCOME TO THE QUIET TERMINAL ⌁`
 
-`warm light // dark wood // curious minds`
+`learn // dark wood // educate`
 
 </div>
 
@@ -80,24 +89,17 @@ Code, operating systems, networks, security, terminals, and the small details mo
 
 ---
 
-## `02 // THE VIBE`
+## `02. My Devotion`
 
 ```text
-Quiet screens.
-Warm light.
-Dark wood.
-Unix manuals.
-A machine humming in the corner.
-
-Calm on the outside.
-Curious on the inside.
-
-No unnecessary noise. Just the system.
+I am but the prominent slave of Asthetic.
+I live learn fight for sake of beauty, even kneel to Allah Because its beautiful 
+For I adore everything I reckon exquisit.
 ```
 
 ---
 
-## `03 // CURRENT ENVIRONMENT`
+## `03. CURRENT ENVIRONMENT`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -114,7 +116,7 @@ No unnecessary noise. Just the system.
 
 ---
 
-## `04 // TECH STACK`
+## `04. TECH STACK`
 
 <div align="center">
 
@@ -131,7 +133,7 @@ No unnecessary noise. Just the system.
 
 ---
 
-## `05 // TERMINAL`
+## `05. TERMINAL`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -160,7 +162,7 @@ No unnecessary noise. Just the system.
 
 ---
 
-## `06 // PROJECT ARCHIVE`
+## `06. PROJECT ARCHIVE`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -190,7 +192,7 @@ No unnecessary noise. Just the system.
 
 ---
 
-## `07 // CHANNEL`
+## `07. CHANNEL`
 
 <div align="center">
 
@@ -202,7 +204,7 @@ No unnecessary noise. Just the system.
 
 ---
 
-## `08 // GITHUB ACTIVITY`
+## `08. GITHUB ACTIVITY`
 
 <div align="center">
 
@@ -217,7 +219,7 @@ No unnecessary noise. Just the system.
 
 ---
 
-## `09 // CONTRIBUTION SIGNAL`
+## `09. CONTRIBUTION SIGNAL`
 
 <div align="center">
 
@@ -227,7 +229,7 @@ No unnecessary noise. Just the system.
 
 ---
 
-## `10 // COMMAND HISTORY`
+## `10. OMMAND HISTORY`
 
 ```text
 $ history
@@ -251,15 +253,15 @@ $ history
 
 ---
 
-## `11 // PHILOSOPHY`
+## `11. PHILOSOPHY`
 
 <div align="center">
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║         "THE MACHINE ONLY KNOWS WHAT YOU TEACH IT."          ║
-║                                                              ║
+║ "Useless things get more attention than meaningful things"   ║
+║         The worse you are greater the hype                   ║
 ║                           - KOANYX                           ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
