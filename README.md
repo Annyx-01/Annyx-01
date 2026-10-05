@@ -30,16 +30,16 @@
 ## `01 // PROJECT ARCHIVE`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  [01]  BROWSER TOOLS    WP Scanner / Usability Tracker       │
-│  [02]  NETWORKING       Packet Sniffer / TCP-UDP Client      │
-│  [03]  SECURITY LABS    Educational simulations              │
-│  [04]  WEB              WordPress themes & plugins           │
-│  [05]  UTILITIES        Batch scripts                        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+                                                  ┌──────────────────────────────────────────────────────────────┐
+                                                  │                                                              │
+                                                  │  [01]  BROWSER TOOLS    WP Scanner / Usability Tracker       │
+                                                  │  [02]  NETWORKING       Packet Sniffer / TCP-UDP Client      │
+                                                  │  [03]  SECURITY LABS    Educational simulations              │
+                                                  │  [04]  WEB              WordPress themes & plugins           │
+                                                  │  [05]  UTILITIES        Batch scripts                        │
+                                                  │                                                              │
+                                                  └──────────────────────────────────────────────────────────────┘
+                                                  ```
 
 <div align="center">
 
@@ -89,56 +89,56 @@
 `warm light // dark wood // curious minds`
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                       A N N Y X - 0 1                        ║
-║                                                              ║
-║              K O A N Y X   //   M A H O G A N Y              ║
-║                                                              ║
-║                ─────────────────────────────                 ║
-║                                                              ║
-║                  SYSTEM    :  ONLINE                         ║
-║                  USER      :  ANNYX                          ║
-║                  NODE      :  01                             ║
-║                  SESSION   :  CALM                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+                                                    ╔══════════════════════════════════════════════════════════════╗
+                                                    ║                                                              ║
+                                                    ║                       A N N Y X - 0 1                        ║
+                                                    ║                                                              ║
+                                                    ║              K O A N Y X   //   M A H O G A N Y              ║
+                                                    ║                                                              ║
+                                                    ║                ─────────────────────────────                 ║
+                                                    ║                                                              ║
+                                                    ║                  SYSTEM    :  ONLINE                         ║
+                                                    ║                  USER      :  ANNYX                          ║
+                                                    ║                  NODE      :  01                             ║
+                                                    ║                  SESSION   :  CALM                           ║
+                                                    ║                                                              ║
+                                                    ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  [ SYSTEM BOOT ]                                             │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  Initializing ANNYX-01 ........................... OK        │
-│  Loading curiosity ............................... OK        │
-│  Loading Linux ................................... OK        │
-│  Loading source code ............................. OK        │
-│  Loading network stack ........................... OK        │
-│  Loading security modules ........................ OK        │
-│                                                              │
-│  STATUS : SYSTEM READY                                       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+                                                    ┌──────────────────────────────────────────────────────────────┐
+                                                    │  [ SYSTEM BOOT ]                                             │
+                                                    ├──────────────────────────────────────────────────────────────┤
+                                                    │                                                              │
+                                                    │  Initializing ANNYX-01 ........................... OK        │
+                                                    │  Loading curiosity ............................... OK        │
+                                                    │  Loading Linux ................................... OK        │
+                                                    │  Loading source code ............................. OK        │
+                                                    │  Loading network stack ........................... OK        │
+                                                    │  Loading security modules ........................ OK        │
+                                                    │                                                              │
+                                                    │  STATUS : SYSTEM READY                                       │
+                                                    │                                                              │
+                                                    └──────────────────────────────────────────────────────────────┘
 ```
 
 ## `04 // WHOAMI`
 
 ```text
-$ whoami
-annyx-01
-
-$ cat /etc/profile
-Name         ::  Annyx-01
-Environment  ::  Linux / Windows
-Interests    ::  Programming / Linux / Networking
-Focus        ::  Systems / Cybersecurity / Development
-Builds       ::  Browser extensions / Network tools / Security labs
-Channel      ::  youtube.com/@key-kon
-Mode         ::  Learn > Build > Break > Fix
-Status       ::  ONLINE
+                                                                  $ whoami
+                                                                  annyx-01
+                                                                  
+                                                                  $ cat /etc/profile
+                                                                  Name         ::  Annyx-01
+                                                                  Environment  ::  Linux / Windows
+                                                                  Interests    ::  Programming / Linux / Networking
+                                                                  Focus        ::  Systems / Cybersecurity / Development
+                                                                  Builds       ::  Browser extensions / Network tools / Security labs
+                                                                  Channel      ::  youtube.com/@key-kon
+                                                                  Mode         ::  Learn > Build > Break > Fix
+                                                                  Status       ::  ONLINE
 ```
 
 I'm interested in understanding how things work beneath the surface.
@@ -168,16 +168,16 @@ No unnecessary noise. Just the system.
 ## `06 // CURRENT ENVIRONMENT`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  SYSTEM            STATUS                                    │
-├──────────────────────────────────────────────────────────────┤
-│  Linux             ████████████████████  ONLINE              │
-│  Windows           ████████████████████  ONLINE              │
-│  Git               ████████████████████  READY               │
-│  GitHub            ████████████████████  CONNECTED           │
-│  Terminal          ████████████████████  ACTIVE              │
-│  Curiosity         ████████████████████  UNLIMITED           │
-└──────────────────────────────────────────────────────────────┘
+                                            ┌──────────────────────────────────────────────────────────────┐
+                                            │  SYSTEM            STATUS                                    │
+                                            ├──────────────────────────────────────────────────────────────┤
+                                            │  Linux             ████████████████████  ONLINE              │
+                                            │  Windows           ████████████████████  ONLINE              │
+                                            │  Git               ████████████████████  READY               │
+                                            │  GitHub            ████████████████████  CONNECTED           │
+                                            │  Terminal          ████████████████████  ACTIVE              │
+                                            │  Curiosity         ████████████████████  UNLIMITED           │
+                                            └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
