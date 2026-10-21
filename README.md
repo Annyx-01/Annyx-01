@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1311,55:2E1B18,100:8E3B2F&height=240&section=header&text=AQSA&fontSize=76&fontColor=E3CDBB&fontAlignY=36&animation=fadeIn&desc=KOANYX%20%2F%2F%20CALM%20SYSTEMS%2C%20CURIOUS%20MINDS&descAlignY=58&descSize=18&descColor=D9A38F"/>
@@ -14,34 +13,20 @@
 
 <br><br>
 
-```text
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1311,55:2E1B18,100:8E3B2F&height=240&section=header&text=AQSA&fontSize=76&fontColor=E3CDBB&fontAlignY=36&animation=fadeIn&desc=KOANYX%20%2F%2F%20CALM%20SYSTEMS%2C%20CURIOUS%20MINDS&descAlignY=58&descSize=18&descColor=D9A38F"/>
-
-<a href="https://github.com/Annyx-01">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=B3523F&center=true&vCenter=true&width=640&height=40&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix;Linux+%C2%B7+Networking+%C2%B7+Security;I+don%27t+just+use+the+machine.;I+want+to+understand+the+machine" alt="typing intro"/>
-</a>
-
-<br>
-
-<a href="https://github.com/Annyx-01"><img src="https://img.shields.io/badge/GITHUB-AQSA-2E1B18?style=for-the-badge&logo=github&logoColor=E3CDBB"/></a>
-<img src="https://komarev.com/ghpvc/?username=Annyx-01&style=for-the-badge&color=4A2A24&label=VISITORS"/>
-
-<br><br>
-
-```text
+<pre>
  █████╗  ██████╗ ███████╗ █████╗
 ██╔══██╗██╔═══██╗██╔════╝██╔══██╗
 ███████║██║   ██║███████╗███████║
 ██╔══██║██║   ██║╚════██║██╔══██║
 ██║  ██║╚██████╔╝███████║██║  ██║
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+</pre>
 
 </div>
 
 ---
+
+## `01 // PROJECTS`
 
 <div align="center">
 
@@ -73,7 +58,6 @@
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Annyx-01&show_icons=true&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/>
-
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annyx-01&layout=compact&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/>
 
 <br>
@@ -83,4 +67,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E3B2F,55:2E1B18,100:1E1311&height=120&section=footer"/>
 
 </div>
-```
