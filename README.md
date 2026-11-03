@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1311,55:2E1B18,100:8E3B2F&height=240&section=header&text=AQSA&fontSize=76&fontColor=E3CDBB&fontAlignY=36&animation=fadeIn&desc=KOANYX%20%2F%2F%20CALM%20SYSTEMS%2C%20CURIOUS%20MINDS&descAlignY=58&descSize=18&descColor=D9A38F"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1311,55:2E1B18,100:8E3B2F&height=240&section=header&text=AQSA&fontSize=76&fontColor=E3CDBB&fontAlignY=36&animation=fadeIn&desc=CYBERSECURITY%20%C3%97%20AI%20%2F%2F%20KOANYX&descAlignY=58&descSize=18&descColor=D9A38F"/>
 
 <a href="https://github.com/Annyx-01">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=B3523F&center=true&vCenter=true&width=640&height=40&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix;Linux+%C2%B7+Networking+%C2%B7+Security;I+don%27t+just+use+the+machine.;I+want+to+understand+the+machine" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=B3523F&center=true&vCenter=true&width=700&height=40&lines=Cybersecurity+Student+%C2%B7+Builder;Network+Security+%C2%B7+Linux+%C2%B7+Python;Exploring+AI+for+Threat+Detection;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix;I+want+to+understand+the+machine" alt="typing intro"/>
 </a>
 
 <br>
@@ -26,7 +26,17 @@
 
 ---
 
-## `01 // PROJECTS`
+## `00 ABOUT`
+
+I'm Aqsa, a cybersecurity learner who builds her own tools to understand how systems work and how they fail. I focus on network security, Linux, and web security, and I'm exploring how AI can help with threat detection and security automation.
+
+- 🔐 **Focus:** Network security, web security, cryptography
+- 🤖 **Exploring:** AI/ML for anomaly detection and log analysis
+- 🛠️ **Method:** Learn → Build → Break → Fix
+
+---
+
+## `01 PROJECTS`
 
 <div align="center">
 
@@ -49,11 +59,35 @@
 
 </div>
 
-> Security tools here are built for learning and authorized testing only.
+---
+
+## `02 FOCUS AREAS`
+
+**Cybersecurity**
+`Network Security` · `Packet Analysis` · `Web Security` · `Vulnerability Scanning` · `Cryptography` · `Linux`
+
+**Artificial Intelligence**
+`Machine Learning` · `Anomaly Detection` · `Log Analysis` · `Security Automation`
 
 ---
 
-## `02 // GITHUB ACTIVITY`
+## `03 TECH STACK`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-2E1B18?style=for-the-badge&logo=python&logoColor=E3CDBB"/>
+<img src="https://img.shields.io/badge/Linux-2E1B18?style=for-the-badge&logo=linux&logoColor=E3CDBB"/>
+<img src="https://img.shields.io/badge/Bash-2E1B18?style=for-the-badge&logo=gnubash&logoColor=E3CDBB"/>
+<img src="https://img.shields.io/badge/Wireshark-2E1B18?style=for-the-badge&logo=wireshark&logoColor=E3CDBB"/>
+<img src="https://img.shields.io/badge/Nmap-2E1B18?style=for-the-badge&logo=nmap&logoColor=E3CDBB"/>
+<img src="https://img.shields.io/badge/WordPress-2E1B18?style=for-the-badge&logo=wordpress&logoColor=E3CDBB"/>
+<img src="https://img.shields.io/badge/Git-2E1B18?style=for-the-badge&logo=git&logoColor=E3CDBB"/>
+
+</div>
+
+---
+
+## `04 GITHUB ACTIVITY`
 
 <div align="center">
 
