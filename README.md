@@ -73,17 +73,7 @@ I'm Aqsa, a cybersecurity learner who builds her own tools to understand how sys
 
 ## `03 TECH STACK`
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-2E1B18?style=for-the-badge&logo=python&logoColor=E3CDBB"/>
-<img src="https://img.shields.io/badge/Linux-2E1B18?style=for-the-badge&logo=linux&logoColor=E3CDBB"/>
-<img src="https://img.shields.io/badge/Bash-2E1B18?style=for-the-badge&logo=gnubash&logoColor=E3CDBB"/>
-<img src="https://img.shields.io/badge/Wireshark-2E1B18?style=for-the-badge&logo=wireshark&logoColor=E3CDBB"/>
-<img src="https://img.shields.io/badge/Nmap-2E1B18?style=for-the-badge&logo=nmap&logoColor=E3CDBB"/>
-<img src="https://img.shields.io/badge/WordPress-2E1B18?style=for-the-badge&logo=wordpress&logoColor=E3CDBB"/>
-<img src="https://img.shields.io/badge/Git-2E1B18?style=for-the-badge&logo=git&logoColor=E3CDBB"/>
-
-</div>
+`Python` · `Linux` · `Bash` · `Wireshark` · `Nmap` · `WordPress` · `Git`
 
 ---
 
