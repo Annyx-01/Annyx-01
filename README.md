@@ -1,34 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1311,55:2E1B18,100:8E3B2F&height=240&section=header&text=AQSA&fontSize=76&fontColor=E3CDBB&fontAlignY=36&animation=fadeIn&desc=CYBERSECURITY%20%C3%97%20AI%20%2F%2F%20KOANYX&descAlignY=58&descSize=18&descColor=D9A38F"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1311,55:2E1B18,100:8E3B2F&height=240&section=header&text=CYBERSECURITY&fontSize=64&fontColor=E3CDBB&fontAlignY=36&animation=fadeIn&desc=NETWORKS%20%C2%B7%20WEB%20%C2%B7%20CRYPTOGRAPHY%20%C2%B7%20AI&descAlignY=58&descSize=18&descColor=D9A38F"/>
 
 <a href="https://github.com/Annyx-01">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=B3523F&center=true&vCenter=true&width=700&height=40&lines=Cybersecurity+Student+%C2%B7+Builder;Network+Security+%C2%B7+Linux+%C2%B7+Python;Exploring+AI+for+Threat+Detection;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix;I+want+to+understand+the+machine" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=B3523F&center=true&vCenter=true&width=700&height=40&lines=Network+Security+%C2%B7+Linux+%C2%B7+Python;Packet+Analysis+%C2%B7+Vulnerability+Scanning;AI+for+Threat+Detection;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix" alt="typing intro"/>
 </a>
 
 <br>
 
-<a href="https://github.com/Annyx-01"><img src="https://img.shields.io/badge/GITHUB-AQSA-2E1B18?style=for-the-badge&logo=github&logoColor=E3CDBB"/></a>
+<a href="https://github.com/Annyx-01"><img src="https://img.shields.io/badge/GITHUB-KOANYX-2E1B18?style=for-the-badge&logo=github&logoColor=E3CDBB"/></a>
 <img src="https://komarev.com/ghpvc/?username=Annyx-01&style=for-the-badge&color=4A2A24&label=VISITORS"/>
-
-<br><br>
-
-<pre>
- █████╗  ██████╗ ███████╗ █████╗
-██╔══██╗██╔═══██╗██╔════╝██╔══██╗
-███████║██║   ██║███████╗███████║
-██╔══██║██║   ██║╚════██║██╔══██║
-██║  ██║╚██████╔╝███████║██║  ██║
-╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-</pre>
 
 </div>
 
 ---
 
 ## `00 ABOUT`
-
-I'm Aqsa, a cybersecurity learner who builds her own tools to understand how systems work and how they fail. I focus on network security, Linux, and web security, and I'm exploring how AI can help with threat detection and security automation.
 
 - 🔐 **Focus:** Network security, web security, cryptography
 - 🤖 **Exploring:** AI/ML for anomaly detection and log analysis
@@ -38,26 +25,12 @@ I'm Aqsa, a cybersecurity learner who builds her own tools to understand how sys
 
 ## `01 PROJECTS`
 
-<div align="center">
-
-<a href="https://github.com/Annyx-01/Koanyx-WP-Scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Koanyx-WP-Scanner&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
-<a href="https://github.com/Annyx-01/koanyx_scan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=koanyx_scan&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
-
-<br>
-
-<a href="https://github.com/Annyx-01/Koanyx-Packet-Sniffer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Koanyx-Packet-Sniffer&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
-<a href="https://github.com/Annyx-01/Koanyx-tcp-udp-clint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Koanyx-tcp-udp-clint&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
-
-<br>
-
-<a href="https://github.com/Annyx-01/Koanyx-Encryptor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Koanyx-Encryptor&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
-<a href="https://github.com/Annyx-01/ANYX-Data-Collector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=ANYX-Data-Collector&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
-
-<br>
-
-<a href="https://github.com/Annyx-01/Wordpress-Hijab-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Annyx-01&repo=Wordpress-Hijab-site&bg_color=1E1311&title_color=E3CDBB&text_color=9C7A6A&icon_color=B3523F&border_color=4A2A24&border_radius=10"/></a>
-
-</div>
+- 🌐 [**Koanyx-WP-Scanner**](https://github.com/Annyx-01/Koanyx-WP-Scanner) — WordPress security scanner
+- 🔎 [**koanyx_scan**](https://github.com/Annyx-01/koanyx_scan) — Scanning tool
+- 📡 [**Koanyx-Packet-Sniffer**](https://github.com/Annyx-01/Koanyx-Packet-Sniffer) — Network packet sniffer
+- 🔌 [**Koanyx-tcp-udp-clint**](https://github.com/Annyx-01/Koanyx-tcp-udp-clint) — TCP/UDP client
+- 🔑 [**Koanyx-Encryptor**](https://github.com/Annyx-01/Koanyx-Encryptor) — Encryption tool
+- 📊 [**ANYX-Data-Collector**](https://github.com/Annyx-01/ANYX-Data-Collector) — Data collection tool
 
 ---
 
